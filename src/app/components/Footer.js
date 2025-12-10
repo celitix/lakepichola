@@ -96,7 +96,7 @@ export default function Footer() {
             <li><Link href="/" className="hover:text-cyan-500 transition">Home</Link></li>
             <li><Link href="/lake-pichola-history" className="hover:text-cyan-500 transition">History</Link></li>
             <li><Link href="/lake-pichola-hotels" className="hover:text-cyan-500 transition">Hotels</Link></li>
-            <li><Link href="/lake-pichola-boat-rides" className="hover:text-cyan-500 transition">Boat Ride</Link></li>
+            <li><Link href="/lake-pichola-boat-ride" className="hover:text-cyan-500 transition">Boat Ride</Link></li>
             <li><Link href="/lake-pichola-timings" className="hover:text-cyan-500 transition">Timings</Link></li>
             <li><Link href="/reach-lake-pichola" className="hover:text-cyan-500 transition">How to reach</Link></li>
             <li><Link href="/blog" className="hover:text-cyan-500 transition">Blog</Link></li>
