@@ -16,7 +16,10 @@ const geistMono = Geist_Mono({
 export const metadata = {
   title: "Lake Pichola | Lake Pichola Udaipur | Udaipur Rajasthan | Udaipur India",
   description: "All you need to know about Lake Pichola of Udaipur Rajasthan. Seep in the 360 degree view and information of your holiday destination",
-   icons: {
+  alternates: {
+    canonical: "https://www.lakepichola.com/",
+  },
+  icons: {
     icon: [
       { url: '/pichola-32x32.png', sizes: '32x32', type: 'image/png' },
       { url: '/pichola-192x192.png', sizes: '192x192', type: 'image/png' },

@@ -1,6 +1,9 @@
 export const metadata = {
   title: "Udaipur Tourism | Jaipur To Udaipur Distance | Udaipur Rajasthan India",
   description: "If you are on for Udaipur tourism, Lake Pichola should top your check list.How to reach Lake pichola & Udaipur, a well connected beautiful...",
+  alternates: {
+    canonical: "https://www.lakepichola.com/reach-lack-pichola",
+  },
 };
 
 export default function Layout({ children }) {
